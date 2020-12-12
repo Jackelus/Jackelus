@@ -1,9 +1,5 @@
 # Hi I'm Jack, a full stack developer from London! 👋
 
-<!--
-**Jackelus/Jackelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on 📈 [Investory](https://github.com/otanriverdi/investory) and 🍺 [Beer Bulletins](https://github.com/Jackelus/beer-bulletins)
 - 🌱 I've started learning <a href="https://golang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> Go and getting more experience with  <a href="https://redux.js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Reux" width="40" height="40"/> </a> Redux.
 - 🙌 When I'm not building things I like to 👨‍🍳 cook and 🎧 DJ 
