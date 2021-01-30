@@ -1,7 +1,7 @@
 # Hi I'm Jack, a full stack developer from London! 👋
 
 - 🔭 I’m currently working on 📈 [Investory](https://github.com/otanriverdi/investory) and 🍺 [Beer Bulletins](https://github.com/Jackelus/beer-bulletins)
-- 🌱 I've started learning Go <a href="https://golang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" width="20" height="20"/> </a> and getting more experience with Redux <a href="https://redux.js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"/> </a>
+- 🌱 I've started learning Go <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/> </a> and getting more experience with Redux <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"/> </a>
 - 🙌 When I'm not building things I like to cook 👨‍🍳 and DJ 🎧
 - 😄 Pronouns: he/him/his
 
