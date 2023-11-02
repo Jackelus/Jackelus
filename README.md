@@ -1,9 +1,9 @@
 # Hi I'm Jack, a full stack developer from London! 👋
 
-- 🔭 I’m currently working on 📈 [Investory](https://github.com/otanriverdi/investory) and 🍺 [Beer Bulletins](https://github.com/Jackelus/beer-bulletins)
-- 🌱 I've started learning Go <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/> </a> and getting more experience with Redux <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"/> </a>
+I'm currently working at ACX as a software engineer, building a trading exchange for carbon credits 🌳 Our tech stack includes TypeScript, NextJS, AWS, Node.js microservices.
+
+- Away from work I have started to play around with Python, Unity and and building a trading bot 📈
 - 🙌 When I'm not building things I like to cook 👨‍🍳 and DJ 🎧
-- 😄 Pronouns: he/him/his
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/> 
