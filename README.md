@@ -2,7 +2,7 @@
 
 I'm currently working at ACX as a software engineer, building a trading exchange for carbon credits 🌳 Our tech stack includes TypeScript, NextJS, AWS, Node.js microservices.
 
-- Away from work I have started to play around with Python, Unity and and building a trading bot 📈
+- Away from work I have started to play around with Python, Unity and I am building a trading bot 📈
 - 🙌 When I'm not building things I like to cook 👨‍🍳 and DJ 🎧
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
